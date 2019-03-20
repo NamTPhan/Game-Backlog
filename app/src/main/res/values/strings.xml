@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GameBacklog</string>
+    <string name="fields_required">All fields required!</string>
+    <string name="success_message">Game successfully added!</string>
+    <string name="deleted_message">Games successfully deleted!</string>
+    <string name="update_message">Game successfully updated!</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="undo_string">UNDO</string>
+    <string name="restore_string">Game(s) restored!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="platform_placeholder">Platform</string>
+    <string name="status_label">Status</string>
+    <string name="delete_all">Delete All</string>
+    <string name="request_code">REQUESTCODE</string>
+    <string name="title_add_game">Create Game</string>
+    <string name="title_edit_game">Edit Game</string>
+</resources>
